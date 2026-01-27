@@ -1,4 +1,15 @@
+# 🚀 Live Demo
 
+**API Endpoint:** https://fraud-detection-api-pqnal3r57a-as.a.run.app
+
+**Interactive Documentation:** https://fraud-detection-api-pqnal3r57a-as.a.run.app/docs
+
+[![API Status](https://img.shields.io/badge/API-Live-brightgreen)](https://fraud-detection-api-pqnal3r57a-as.a.run.app/health)
+[![ROC-AUC](https://img.shields.io/badge/ROC--AUC-99.38%25-blue)](https://fraud-detection-api-pqnal3r57a-as.a.run.app/docs)
+[![Precision](https://img.shields.io/badge/Precision-88%25-success)](https://fraud-detection-api-pqnal3r57a-as.a.run.app/docs)
+[![Recall](https://img.shields.io/badge/Recall-96%25-success)](https://fraud-detection-api-pqnal3r57a-as.a.run.app/docs)
+
+---
 # Cross-Border Payment Fraud Detection API
 
 Real-time fraud detection system achieving 99.4% ROC-AUC with explainable AI for regulatory compliance.
